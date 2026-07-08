@@ -114,6 +114,17 @@ In the free version, effects are displayed globally across all pages. To target 
 
 ## 📜 Changelog
 
+### 1.6.1
+* **Enhancement:** Added dynamic Live Preview auto-update on dashboard settings modification.
+* **Enhancement:** Added live background color picker to the Live Preview card header.
+* **Enhancement:** Displayed the plugin version dynamically in the dashboard settings header.
+* **UI Fix:** Removed button text underlines on all settings buttons.
+* **UI Fix:** Enhanced text color contrast on primary button hover/focus/active states.
+* **UI Fix:** Removed horizontal scrollbar overflow on "Our Themes" and "Our Plugins" sub-pages.
+* **UI Fix:** Removed the cloud icon from the admin settings loading screen.
+* **Link Fix:** Updated the "BUY NOW" button to direct to the premium signup page.
+* **Clean Up:** Removed the obsolete "Try Pro Version" link.
+
 ### 1.6.0
 * **Security:** Hardened administrative settings with robust capability checks and nonces.
 * **Security:** Implemented output escaping and sanitization across all frontend effects.
